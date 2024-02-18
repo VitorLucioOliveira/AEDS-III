@@ -22,6 +22,13 @@ public class Livro {
         this.preco = preco;
     }
 
+    public Livro() {
+        id = -1;
+        titulo = "";
+        autor = "";
+        preco = 0F;
+      }
+
     public String toString() {
         return "\nID: " + id + "\nTítulo: " + titulo + "\nAutor: " + autor + "\nPreço: R$ " + df.format(preco);
     }
