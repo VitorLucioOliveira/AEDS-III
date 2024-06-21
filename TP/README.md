@@ -3,8 +3,8 @@
 ##  Equipe 💂‍♂️
 
 - Vitor Lúcio de Oliveira
-- Bruno Braga Guimarães Alves
-- Vitor Dias de Britto Militão
+- Bruno Braga Guimarães Alves (fez nada)
+- Vitor Dias de Britto Militão (fez nada)
 
 
 ## Descrição📝 
